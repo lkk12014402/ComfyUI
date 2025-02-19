@@ -1,3 +1,4 @@
+import habana_frameworks.torch.gpu_migration
 import comfy.options
 comfy.options.enable_args_parsing()
 
